@@ -9,7 +9,7 @@ import java.util.*
  */
 object DataService {
 
-    val cetegories = listOf(
+    val categories = listOf(
             Category("SHIRTS", "shirtimage"),
             Category("HOODIES", "hoodieimage"),
             Category("HATS", "hatimage"),
