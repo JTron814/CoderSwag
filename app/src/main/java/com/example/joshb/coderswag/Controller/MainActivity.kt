@@ -32,7 +32,5 @@ class MainActivity : AppCompatActivity() {
         val layoutManager = LinearLayoutManager(this)
         categoryListView.layoutManager = layoutManager
         categoryListView.setHasFixedSize(true)
-
-
     }
 }
